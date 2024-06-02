@@ -1,0 +1,32 @@
+.container {
+    background-color: rgb(236, 235, 231); /* Color de fondo del recuadro */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #e93737ea; /* Sombra alrededor del recuadro */
+    margin-bottom: 20px; /* Espacio entre los recuadros */
+}
+h1, h2 {
+    text-align: center; /* Centrar el texto */
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #fc3636ea;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #dde2e5;
+    color: #333;
+}
